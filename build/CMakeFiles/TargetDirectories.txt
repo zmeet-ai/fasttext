@@ -1,0 +1,10 @@
+/root/gitlab/reference/audio/tts/fastText/build/CMakeFiles/fasttext-shared.dir
+/root/gitlab/reference/audio/tts/fastText/build/CMakeFiles/fasttext-static.dir
+/root/gitlab/reference/audio/tts/fastText/build/CMakeFiles/fasttext-static_pic.dir
+/root/gitlab/reference/audio/tts/fastText/build/CMakeFiles/fasttext-bin.dir
+/root/gitlab/reference/audio/tts/fastText/build/CMakeFiles/edit_cache.dir
+/root/gitlab/reference/audio/tts/fastText/build/CMakeFiles/rebuild_cache.dir
+/root/gitlab/reference/audio/tts/fastText/build/CMakeFiles/list_install_components.dir
+/root/gitlab/reference/audio/tts/fastText/build/CMakeFiles/install.dir
+/root/gitlab/reference/audio/tts/fastText/build/CMakeFiles/install/local.dir
+/root/gitlab/reference/audio/tts/fastText/build/CMakeFiles/install/strip.dir

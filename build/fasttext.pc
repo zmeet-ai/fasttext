@@ -1,0 +1,10 @@
+prefix=/usr/local
+exec_prefix=/usr/local/libexec
+libdir=/usr/local/lib
+includedir=/usr/local/include
+
+Name: fasttext
+Description: Efficient learning of word representations and sentence classification
+Version: 
+Libs: -L${libdir} -lfasttext
+Cflags: -I${includedir}

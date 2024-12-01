@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2bf4e06c930792535fdd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.9"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "fasttext",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "fasttext-bin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fasttext-bin-Debug-b62f1a44672d187691d7.json",
+					"name" : "fasttext-bin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fasttext-shared::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fasttext-shared-Debug-c3afa659b5875ea91de1.json",
+					"name" : "fasttext-shared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fasttext-static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fasttext-static-Debug-617d995d5aed637ed70f.json",
+					"name" : "fasttext-static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fasttext-static_pic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fasttext-static_pic-Debug-84f2383977b282f74321.json",
+					"name" : "fasttext-static_pic",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/root/gitlab/reference/audio/tts/fastText/build",
+		"source" : "/root/gitlab/reference/audio/tts/fastText"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
